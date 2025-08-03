@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**VitAndrGuid/VitAndrGuid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on:
+A personal knowledge base app, a Rust backend for fun, and rebuilding my dotfiles from scratch.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: 
+SolidJS, Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Looking to collaborate on:
+Open source webdev libraries, especially tools for Svelte, Solid, or backend infra with Rust or Go.
+
+💬 Ask me about:
+TypeScript, Svelte, Vue, React and building smooth DX with modern tools.
+
+📫 How to reach me:
+vitor.guidorizzi@hotmail.com
+
+⚡ Fun fact:
+My shell scripts save me time — eventually. Probably. Hopefully.
