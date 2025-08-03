@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 Currently working on:
+🔭 Currently working on:
 A personal knowledge base app, a Rust backend for fun, and rebuilding my dotfiles from scratch.
 
-- 🌱 Currently learning: 
+🌱 Currently learning: 
 SolidJS, Rust
 
-- 👯 Looking to collaborate on:
+👯 Looking to collaborate on:
 Open source webdev libraries, especially tools for Svelte, Solid, or backend infra with Rust or Go.
 
 💬 Ask me about:
